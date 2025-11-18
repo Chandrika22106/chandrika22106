@@ -7,8 +7,8 @@ I love learning new technologies, building projects, and improving every day.
 🎓 Currently pursuing Java Full Stack with AI Integration (Tap Academy)
 💡 Passionate about Web Development, Java, SQL, and Data Structures
 🧠 Improving skills daily with hands-on coding challenges
-🌱 Currently learning: Spring Boot, JDBC, Advanced Java, React, Git & GitHub
-🎯 Goal: Become a strong Full Stack Developer and crack top tech roles
+      🌱 Currently learning: Spring Boot, JDBC, Advanced Java, React, Git & GitHub
+ 🎯 Goal: Become a strong Full Stack Developer and crack top tech roles
 
 🛠️ Tech Stack
 💡Languages
